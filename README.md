@@ -1,24 +1,11 @@
-# calculator
+# Calculator
 
-## Project setup
-```
-npm install
-```
+透過 vue 實現計算機的功能。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Skill
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- vue
+- regex
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Demo
+![caculator](https://user-images.githubusercontent.com/34854876/117482677-49528780-af97-11eb-9098-a44c095c97db.jpg)
